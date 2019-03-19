@@ -1,3 +1,3 @@
 # Performance-Metrics-Facebook-s-Page
 
-Prediction of total interaction(Sum of total likes, comments and shares) on a post.
+Predict the Reach, Impression and Total interaction of a publication with the predictors available on dataset.
